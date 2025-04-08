@@ -14,7 +14,7 @@
 <br>
 
 <div style="background-color: #2a2a2a; color: #c0c0c0; padding: 10px; border-radius: 10px;">
-  🎓 Student of T.S.U. in Multiplatform Software Development with a strong passion for **frontend development** and creating **intuitive and visually appealing user interfaces**.
+  🎓 Student of T.S.U. in Multiplatform Software Development with a strong passion for <strong>frontend development</strong> and creating <strong>intuitive and visually appealing user interfaces</strong>.
 </div>
 <br><br>
 💼 Professional Summary:
