@@ -20,17 +20,9 @@
 💼 Professional Summary:
 An emerging developer with hands-on experience in the design and development of functional web applications. I have a solid foundation in problem-solving and a proactive mindset in seeking innovative and efficient solutions. 
 <br><br><br>
-🌱 Areas of Interest:
+🛠️ Key Projects:
 
-| Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Field&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Focus | Interest Level |
-| :------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :-------------: | :---: |
-| <img src="https://img.shields.io/badge/UI%2FUX-800080?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"> | **Interface Design** | UI/UX Focused on User Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | High&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="url_de_tu_logo" alt="Interface Design Logo"> |
-| <img src="https://img.shields.io/badge/Collaboration-008080?style=for-the-badge&logo=git&logoColor=white" alt="Collaboration"> | **Collaboration** | Active participation in open-source projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Medium&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="url_de_tu_logo" alt="Collaboration Logo"> |
-| <img src="https://img.shields.io/badge/Learning-0000FF?style=for-the-badge&logo=book&logoColor=white" alt="Learning"> | **Knowledge Acquisition** | Continuous exploration of new technologies and paradigms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | High&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="url_de_tu_logo" alt="Learning Logo"> |
-
-<br><br>🛠️ Key Projects:
-
-- 🚀 **Interactive Exercise Manual:**
+- 🚀 **Manual de Ejercicios:**
   [![GitHub Repository](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/KouDionicio/ManualEjercicios_5A_230237.git)
   An interactive platform that consumes an API to dynamically display **12 exercises**, **4 informational tables**, and **4 analytical graphs**.
 
