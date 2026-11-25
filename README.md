@@ -1,59 +1,70 @@
 <div align="center" style="background-color: #000; color: white; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=👋+Hello+I'm+Citlalli" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Citlalli;Desarrolladora+en+formaci%C3%B3n;Me+encanta+el+desarrollo+web" alt="Hola, soy Citlalli" />
 </div>
 
 <div align="center" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;">
   <a href="https://github.com/KouDionicio" style="color: #36BCF7;">
-    <img src="https://img.shields.io/badge/GitHub-KouDionicio-24292e?style=flat-square&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-KouDionicio-24292e?style=flat-square&logo=github" alt="Perfil de GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Pronouns-Kou%2FEstrella-informational?style=flat-square" alt="Pronouns: Kou/Estrella" />
-  <img src="https://img.shields.io/badge/Location-Xicotepec%20de%20Ju%C3%A1rez%2C%20Puebla%2C%20M%C3%A9xico-informational?style=flat-square" alt="Location: Xicotepec de Juárez, Puebla, México" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning%20%26%20Building-brightgreen?style=flat-square" alt="Status: Actively Learning & Building" />
+  <img src="https://img.shields.io/badge/Pronombres-Kou%2FEstrella-informational?style=flat-square" alt="Pronombres: Kou/Estrella" />
+  <img src="https://img.shields.io/badge/Ubicación-Xicotepec%20de%20Ju%C3%A1rez%2C%20Puebla%2C%20M%C3%A9xico-informational?style=flat-square" alt="Ubicación: Xicotepec de Juárez, Puebla, México" />
+  <img src="https://img.shields.io/badge/Estado-Aprendiendo%20y%20construyendo-brightgreen?style=flat-square" alt="Estado: Aprendiendo y construyendo" />
 </div>
 
 <br>
 
 <div style="background-color: #2a2a2a; color: #c0c0c0; padding: 10px; border-radius: 10px;">
-  🎓 Student of T.S.U. in Multiplatform Software Development with a strong passion for <strong>frontend development</strong> and creating <strong>intuitive and visually appealing user interfaces</strong>.
+  🎓 Estudiante de <strong>Ingeniería en Desarrollo y Gestión de Software</strong>, interesada en el <strong>desarrollo web</strong>, las tecnologías y la creación de <strong>soluciones digitales</strong>.
 </div>
 <br><br>
-💼 Professional Summary:
-An emerging developer with hands-on experience in the design and development of functional web applications. I have a solid foundation in problem-solving and a proactive mindset in seeking innovative and efficient solutions. 
-<br><br><br>
-🛠️ Key Projects:
 
-- 🚀 **Manual de Ejercicios:**
-  [![GitHub Repository](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/KouDionicio/ManualEjercicios_5A_230237.git)
-  An interactive platform that consumes an API to dynamically display **12 exercises**, **4 informational tables**, and **4 analytical graphs**.
+💼 **Sobre mí:**
+Soy estudiante en formación con experiencia real en proyectos académicos y de estadía. He trabajado en desarrollo web, backend, bases de datos, pruebas de software y personalización de sitios en WordPress. Quiero seguir aprendiendo, adquirir experiencia en un entorno profesional y mejorar mis habilidades.
 
-- 🌐 **MEGA - Comprehensive Management System:**
-  [![GitHub Repository](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/KouDionicio/MEGA-230237.git)
-  A robust web application with full functionality for **user registration**, **secure authentication**, **CRUD operations** for resource management, and a **file management system** with **role-based access control (admin and user)**.
+<br><br>
 
-- 🌳 **InsA - Environmental Report Management (Collaboration):**
-  [![GitHub Repository](https://img.shields.io/badge/Repository-View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/EMATIAS230045/P.InsA.git)
-  A web application designed to manage environmental inspector reports, allowing team leaders to **confirm attendance** of members during fieldwork sessions.
+🛠️ **Proyectos destacados:**
 
-  <br>
-💻 Technologies Mastered:
-<p align="left">
-</p>
+- 🌿 **Mare Pacífico** · *Migración de contenido web*
+  Actualización de un sitio que estaba en Wix, con su contenido trasladado a WordPress. Incorporé información en PDF, logos e iconos, y apoyé en la organización del contenido.
+  Tecnologías: WordPress
 
-🔭 Continuous Exploration and Learning:
-<p align="left">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+- 🌊 **Dolcemondo** · *Personalización de sitio web*
+  Personalización de un sitio con tema de WordPress ya instalado, usando Avada para organizar el contenido, colocar imágenes e iconos y ajustar elementos visuales.
+  Tecnologías: WordPress · Avada
 
-🚀 Constantly seeking stimulating challenges and opportunities to expand my skills as a developer.
+- 🧪 **VitalMind+** · *QA y pruebas de software*
+  Participación en el área de QA: pruebas de backend e integración, seguimiento de errores, organización de reportes y documentación de resultados.
+  [![Repositorio](https://img.shields.io/badge/Repositorio-Ver%20en%20GitHub-blue?style=flat-square&logo=github)](https://github.com/KouDionicio/9A-IDGS-ECBD-VitalMind-)
+
+- 🩺 **MedAlert+** · *Backend y base de datos*
+  Proyecto universitario de gestión de recordatorios de medicamentos. Participé en la base de datos, el apoyo al backend y la organización de la información del sistema.
+  [![Repositorio](https://img.shields.io/badge/Repositorio-Ver%20en%20GitHub-blue?style=flat-square&logo=github)](https://github.com/yaz-gutzz/MedAlert)
 
 <br>
 
-🔗 []
-🔗 []
+💻 **Habilidades:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+Además: Avada, backend, bases de datos y QA y pruebas de software.
+
+<br>
+
+📫 **Contacto:**
+- Correo: dionicioperezcitlalli464@gmail.com
+- LinkedIn: [AQUÍ AGREGARÉ EL ENLACE]
+- GitHub: [KouDionicio](https://github.com/KouDionicio)
+
+🚀 Siempre busco retos nuevos para seguir creciendo como desarrolladora.
